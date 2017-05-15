@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title> Spartan Soldiers </title>
+        <link rel="stylesheet" href="bootstrapcodes/css/bootstrap.css" type="text/css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+<body>
+    
+     <div class="jumbotron text-center">
+  <h1>Historia e Preços da empresa</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    
+
+    <div class="col-sm-6">
+    <div class="jumbotron text-center">
+      <h2>Historia da loja</h2>
+      <p> Fundada no dia 29 de fevereiro de 2017, entramos no mercado para ferecer os melhores suplementos e equipamentos de artes marciais com qualidade das marcas nacionais e internacionais mais valorizadas do mercado. Nosso compromisso é com a sua saúde e qualidade de vida, fazer com que você alcance seus ideais é o que nos motiva.  </p>   
+    </div>
+    </div>
+
+    <div class="col-sm-6">
+    <div class="jumbotron text-center">
+      <h3>Lista de Preços</h3>
+      <p> 1.Kimonos de Jiu-Jitsu: entre R$ 200,00 e R$ 700,00 <br>
+          2.Kimonos de Karate: entre R$ 150,00 e R$ 250,00 <br>
+          3.Kimonos de Judô: entre R$ 200,00 e R$ 500,00 <br>
+          4.Shots de mma e muay thay: entre R$ 100,00 e R$ 270,00 <br>
+          5.Luvas de mma e boxe: entre R$ 150,00 e R$ 600,00 <br>
+          6.Protetores bucais e genitais: entre R$ 40,00 e R$ 100,00 <br>
+          7.Aquecedores: entre R$ 70,00 e R$ 200,00 <br>
+          8.Caneleiras: entre R$ 100,00 e R$ 250,00 <br>
+          9.Bandagens: R$ 30,00 <br>
+          10.Faixas de graduaçao em geral: entre R$ 100,00 e R$ 300,00 <br>
+          11.Suplementos em geral: entre R$ 150,00 e R$ 350,00 <br>
+                 
+</p>
+
+    </div>  
+    </div>
+
+
+  </div>
+</div>
+
+    </div>
+
+        <nav>
+    <ul>
+    <li><a href="pag1spartansoldier.html">Pagina I</a></li>
+    </ul>
+        </nav>
+
+        <nav>
+    <ul>
+    <li><a href="pag3spartansoldier.html">Pagina III</a></li>
+    </ul>
+        </nav>
+
+        <nav>
+    <ul>
+    <li><a href="pag4spartansoldier.html">Pagina IV</a></li>
+    </ul>
+        </nav>
+
+
+
+
+</body>
+
+</html>
